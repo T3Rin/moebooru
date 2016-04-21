@@ -10,7 +10,7 @@ div#main-menu > ul {
 }
 div#main-menu ul li {
   margin: 0 12px 0 0;
-  padding: 0;
+  padding: 5px;
   float: left;
   position: relative;
 }
